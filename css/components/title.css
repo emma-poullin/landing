@@ -1,0 +1,27 @@
+.title {
+	padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.title ul {
+	list-style: none;
+	padding:20px;
+}
+
+.title li {
+	display:inline;
+	padding:30px;
+}
+
+.title a {
+	color: rgba(0,0,0,0.6);
+}
+
+.title a:hover{
+	color: #E28413;
+}
+
+.title i{
+	font-size: 50px;
+}
